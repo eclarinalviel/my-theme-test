@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: My Theme 1.0.0\n"
-"POT-Creation-Date: 2016-06-05 11:18-0700\n"
-"PO-Revision-Date: 2016-06-05 11:18-0700\n"
+"POT-Creation-Date: 2016-06-05 19:28-0700\n"
+"PO-Revision-Date: 2016-06-05 19:28-0700\n"
 "Last-Translator: \n"
 "Language-Team: WithCenter <eclarinalviel@gmail.com>\n"
 "Language: ko\n"
@@ -15,10 +15,24 @@ msgstr ""
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: footer.php:7
-msgid "To live would be an awfully big adventure."
-msgstr "굉장히 큰 모험 이 될 것입니다 살고 있습니다."
+#: footer.php:9
+msgid "2016. All Rights Reserved. Themes by: eclarinalviel"
+msgstr "2016 년 판권 소유. eclarinalviel : 의해 테마"
 
-#: footer.php:18
-msgid "2015. All Rights Reserved. Themes by: eclarinalviel"
-msgstr "2015 년 판권 소유. eclarinalviel : 의해 테마"
+#: footer.php:40
+msgid "Twitter"
+msgstr "트위터 "
+
+#: footer.php:41
+msgid "Facebook"
+msgstr "페이스북 "
+
+#: functions.php:141
+msgid "...More"
+msgstr "더보기"
+
+#~ msgid "To live would be an awfully big adventure."
+#~ msgstr "굉장히 큰 모험 이 될 것입니다 살고 있습니다."
+
+#~ msgid "2015. All Rights Reserved. Themes by: eclarinalviel"
+#~ msgstr "2015 년 판권 소유. eclarinalviel : 의해 테마"
